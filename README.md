@@ -1,6 +1,6 @@
 # nebula
 
-## A React wrapper around Nebula.js for easy integration with Motor Mashups 🚀
+## A React wrapper around Nebula.js for easy integration with Motor Mashups 🚀
 
 ![Motor Logo](./motor_red.png)
 
